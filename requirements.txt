@@ -10,7 +10,7 @@ aiosqlite==0.18.0
 meval==2.5
 speedtest-cli
 humanfriendly
-python-ffmpeg==2.0.2
+python-ffmpeg==2.0.4
 gpytranslate==1.5.1
 httpx[http2]>=0.18.1,<1.0.0
 yt-dlp==2023.3.4
