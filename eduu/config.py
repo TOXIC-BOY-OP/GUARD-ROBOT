@@ -8,8 +8,8 @@ API_HASH: str = "insert_your_own_api_hash_here"
 TOKEN: str = "insert_your_bot_token_here"
 
 log_chat: int = insert_log_chat_id_here
-sudoers: List[int] = [1757169682, 859229457]
-super_sudoers: List[int] = [1757169682, 859229457]
+sudoers: List[int] = [6109531260, 1939017724]
+super_sudoers: List[int] = [6109531260, 1939017724]
 
 prefix: List[str] = ["/", "!", ".", "$", "-"]
 
