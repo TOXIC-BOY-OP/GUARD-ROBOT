@@ -12,11 +12,13 @@ To build the bot using this source-code, setup all vars manually and fill it at 
 7. Click on Deploy Branch button
 8. After build done -> Click on Resources Tab -> Switch Toggle On
 
-### Deploy on VPS/Linux
+### Deploy on VPS/LINUX/HEROKU
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TOXIC-BOY-OP/GUARD-ROBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-yellow?style=for-the-badge&logo=heroku" width="420" height="38.45"/></a></p>
 
 Clone the repo first
 ```bash
-git clone https://github.com/levina-lab/guard-bot
+git clone https://github.com/TOXIC-BOY-OP/GUARD-ROBOT
 ```
 
 ```bash
